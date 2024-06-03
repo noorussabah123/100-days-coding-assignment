@@ -28,6 +28,6 @@ console.log(!car.includes('z'));
 // && and ||
 // let num1 = 5
 // let num2 = 10
-// console.log(5 < 10 && 10 > 5); // true
-// console.log(5 > 10 || 10 > 15); // false
-// console.log(5 > 10 || 10 < 15); // true
+console.log(5 < 10 && 10 > 5); // true
+console.log(5 > 10 || 10 > 15); // false
+console.log(5 > 10 || 10 < 15); // true
