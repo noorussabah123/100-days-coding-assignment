@@ -1,7 +1,5 @@
 // day 11
 
-import { log } from "console";
-
 // Question 31: No Users: Ensure your user list isn’t empty.
 
 let userName: string[] = []
