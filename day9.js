@@ -29,3 +29,6 @@ else if (aleincolor === "Green") {
 else if (aleincolor === "Red") {
     console.log("You earned 15 points");
 }
+var num = 5;
+num = num + 10;
+console.log(num);

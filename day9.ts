@@ -45,3 +45,4 @@ if(aleincolor === "Yellow") {
     console.log("You earned 15 points");
     
 }
+
