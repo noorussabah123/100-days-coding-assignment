@@ -1,6 +1,4 @@
-"use strict";
 // day 11
-Object.defineProperty(exports, "__esModule", { value: true });
 // Question 31: No Users: Ensure your user list isn’t empty.
 var userName = [];
 if (userName.length === 0) {
