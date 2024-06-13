@@ -12,3 +12,6 @@ var grades = [88, 94, 72, 99, 53, 77];
 var total = grades.reduce(function (total, grade) { return total + grade; }, 0);
 var averageGrade = total / grades.length;
 console.log(averageGrade);
+var greeting = "hello";
+greeting += "world";
+console.log(greeting);
